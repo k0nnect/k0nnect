@@ -1,6 +1,6 @@
 ## 📚 k0nnect
 
-💻 C/C#/C++, Java, JavaScript, Python, Rust, HTML/CSS/PHP, SQL, & Reverse Engineering
+💻 c/c#/c++, java/js, typescript, python, rust, html/css/php, sql, & reverse engineering
 ##
 
 <div style="display: inline_block"><br>
