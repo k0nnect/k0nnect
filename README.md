@@ -1,6 +1,6 @@
 ## 📚 c. jagdeo
 
-<a href="https://www.princeton.edu"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Princeton_University_Shield.svg/48px-Princeton_University_Shield.svg.png" height="48"></a>  hft || cs @ princeton
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Princeton_University_Shield.svg" height="48" alt="Princeton"> hft || cs @ princeton
 ##
 
 <div style="display: inline_block"><br>
