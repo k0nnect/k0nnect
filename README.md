@@ -1,6 +1,6 @@
 ## 📚 c. jagdeo
 
-hft || cs @ princeton
+high freq trading || cs @ princeton
 ##
 
 <div style="display: inline_block"><br>
