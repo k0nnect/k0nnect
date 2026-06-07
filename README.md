@@ -1,4 +1,4 @@
-## 📚 k0nnect
+## 📚 c. jagdeo
 
 💻 c/c#/c++, java/js, typescript, python, rust, html/css/php, sql, & reverse engineering
 ##
@@ -21,9 +21,5 @@
   ##
  
 <div> 
-📩 contact me on my social media(s) below
-
-[telegram](https://t.me/k0nn3ct/)
-  
 </div>
 
