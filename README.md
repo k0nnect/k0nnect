@@ -15,5 +15,5 @@ hft || cs @ princeton
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Rafa-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="[https://upload.wikimedia.org/wikipedia/commons/a/ae/Princeton_University_Shield.svg]
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="[https://i.imgur.com/odSpDDC.png]
 </div>
