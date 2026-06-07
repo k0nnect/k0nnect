@@ -1,6 +1,6 @@
 ## 📚 c. jagdeo
 
-💻 c/c#/c++, java/js, typescript, python, rust, html/css/php, sql, & reverse engineering
+💻 hft || cs @ princeton
 ##
 
 <div style="display: inline_block"><br>
