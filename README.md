@@ -1,6 +1,8 @@
 ## 📚 c. jagdeo
 
 high freq trading || cs @ princeton
+
+math, ee minors
 ##
 
 <div style="display: inline_block"><br>
