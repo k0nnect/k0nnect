@@ -1,6 +1,6 @@
 ## 📚 c. jagdeo
 
-high freq trading || cs @ princeton
+[medusa](https://medusa.baby) || cs @ princeton
 
 math, ee minors
 ##
