@@ -1,8 +1,6 @@
 ## 📚 c. jagdeo
 
 [medusa](https://medusa.baby)
-
-math, ee minors
 ##
 
 <div style="display: inline_block"><br>
