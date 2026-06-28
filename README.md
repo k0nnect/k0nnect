@@ -1,6 +1,6 @@
 ## 📚 c. jagdeo
 
-[medusa](https://medusa.baby) || cs @ princeton
+[medusa](https://medusa.baby)
 
 math, ee minors
 ##
