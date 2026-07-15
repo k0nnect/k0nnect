@@ -1,4 +1,4 @@
-## 📚 c. jagdeo
+## 📚 cj
 
 [medusa](https://medusa.baby)
 ##
