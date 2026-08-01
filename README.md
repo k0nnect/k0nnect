@@ -1,6 +1,6 @@
 ## 📚 cj
 
-[medusa](https://medusa.baby)
+18
 ##
 
 <div style="display: inline_block"><br>
