@@ -1,6 +1,6 @@
 ## 📚 cj
 
-18
+computer science student
 ##
 
 <div style="display: inline_block"><br>
