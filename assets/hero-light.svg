@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 272" width="760" height="272" role="img" aria-labelledby="t d">
+  <title id="t">chris j.</title>
+  <desc id="d">A git-style graph of four pull requests merged into open source projects in 2026: basic-memory #1764 on October 14, DefectDojo #16374 on October 17, pwndbg #4221 on October 20 and PyMISP #1498 on November 3.</desc>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .han  { font-family: "Songti SC", "STSong", "Noto Serif CJK SC", "Source Han Serif SC", SimSun, serif; }
+    .ink { fill: #1f2328; }
+    .muted { fill: #59636e; }
+    .name { font-size: 56px; font-weight: 800; letter-spacing: -1.5px; word-spacing: 5px; }
+    .motto { font-size: 27px; letter-spacing: 3px; }
+    .gloss { font-size: 12.5px; }
+    .repo { font-size: 14px; font-weight: 600; }
+    .meta { font-size: 12px; }
+    .what { font-size: 12px; }
+    .main { stroke: #d1d9e0; stroke-width: 2; fill: none; stroke-linecap: round; }
+    .tail { stroke: #d1d9e0; stroke-width: 2; fill: none; stroke-linecap: round; stroke-dasharray: 2 7; }
+    .br { stroke: #8250df; stroke-width: 2; fill: none; stroke-linecap: round; }
+    .node { fill: #8250df; transform-box: fill-box; transform-origin: center; }
+    .dot { fill: #8250df; opacity: .5; }
+
+    @keyframes draw-main { from { stroke-dashoffset: 700; } to { stroke-dashoffset: 0; } }
+    @keyframes draw-br { from { stroke-dashoffset: 150; } to { stroke-dashoffset: 0; } }
+    @keyframes pop { from { opacity: 0; transform: scale(.2); } to { opacity: 1; transform: scale(1); } }
+    @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+
+    @media (prefers-reduced-motion: no-preference) {
+      .main { stroke-dasharray: 700; animation: draw-main 1.3s cubic-bezier(.4, 0, .2, 1) both; }
+      .tail { animation: fade .4s ease-out 1.9s both; }
+      .br { stroke-dasharray: 150; animation: draw-br .55s cubic-bezier(.4, 0, .2, 1) both; }
+      .dot { animation: fade .3s ease-out both; }
+      .node { animation: pop .35s cubic-bezier(.3, 1.7, .5, 1) both; }
+      .label { animation: fade .45s ease-out both; }
+      .s1 .br { animation-delay: .25s; } .s1 .dot { animation-delay: .3s; } .s1 .node { animation-delay: .7s; } .s1 .label { animation-delay: .75s; }
+      .s2 .br { animation-delay: .55s; } .s2 .dot { animation-delay: .6s; } .s2 .node { animation-delay: 1s; } .s2 .label { animation-delay: 1.05s; }
+      .s3 .br { animation-delay: .85s; } .s3 .dot { animation-delay: .9s; } .s3 .node { animation-delay: 1.3s; } .s3 .label { animation-delay: 1.35s; }
+      .s4 .br { animation-delay: 1.15s; } .s4 .dot { animation-delay: 1.2s; } .s4 .node { animation-delay: 1.6s; } .s4 .label { animation-delay: 1.65s; }
+    }
+  </style>
+
+  <text class="sans ink name" x="14" y="62">chris j.</text>
+  <text class="han ink motto" x="746" y="44" text-anchor="end">学海无涯</text>
+  <text class="sans muted gloss" x="744" y="66" text-anchor="end">the sea of learning has no shore</text>
+
+  <path class="main" d="M16 180 H700"/>
+  <path class="tail" d="M708 180 H746"/>
+
+  <g class="s1">
+    <path class="br" d="M28 226 H74 C100 226 98 180 124 180"/>
+    <circle class="dot" cx="36" cy="226" r="3"/><circle class="dot" cx="60" cy="226" r="3"/>
+    <circle class="node" cx="124" cy="180" r="6.5"/>
+    <g class="label">
+      <text class="mono ink repo" x="124" y="140" text-anchor="middle">basic-memory</text>
+      <text class="mono muted meta" x="124" y="158" text-anchor="middle">#1764  oct 14</text>
+      <text class="mono muted what" x="28" y="250">mask credentials</text>
+    </g>
+  </g>
+
+  <g class="s2">
+    <path class="br" d="M208 226 H254 C280 226 278 180 304 180"/>
+    <circle class="dot" cx="216" cy="226" r="3"/><circle class="dot" cx="240" cy="226" r="3"/>
+    <circle class="node" cx="304" cy="180" r="6.5"/>
+    <g class="label">
+      <text class="mono ink repo" x="304" y="140" text-anchor="middle">DefectDojo</text>
+      <text class="mono muted meta" x="304" y="158" text-anchor="middle">#16374  oct 17</text>
+      <text class="mono muted what" x="208" y="250">fix bulk-merge count</text>
+    </g>
+  </g>
+
+  <g class="s3">
+    <path class="br" d="M388 226 H434 C460 226 458 180 484 180"/>
+    <circle class="dot" cx="396" cy="226" r="3"/><circle class="dot" cx="420" cy="226" r="3"/>
+    <circle class="node" cx="484" cy="180" r="6.5"/>
+    <g class="label">
+      <text class="mono ink repo" x="484" y="140" text-anchor="middle">pwndbg</text>
+      <text class="mono muted meta" x="484" y="158" text-anchor="middle">#4221  oct 20</text>
+      <text class="mono muted what" x="388" y="250">respect lldb run-args</text>
+    </g>
+  </g>
+
+  <g class="s4">
+    <path class="br" d="M568 226 H614 C640 226 638 180 664 180"/>
+    <circle class="dot" cx="576" cy="226" r="3"/><circle class="dot" cx="600" cy="226" r="3"/>
+    <circle class="node" cx="664" cy="180" r="6.5"/>
+    <g class="label">
+      <text class="mono ink repo" x="664" y="140" text-anchor="middle">PyMISP</text>
+      <text class="mono muted meta" x="664" y="158" text-anchor="middle">#1498  nov 3</text>
+      <text class="mono muted what" x="568" y="250">sharing group blueprints</text>
+    </g>
+  </g>
+</svg>
