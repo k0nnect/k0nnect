@@ -53,7 +53,7 @@ more at [chrisjagdeo.com](https://chrisjagdeo.com) and on [the blog](https://blo
 
 <a href="https://github.com/k0nnect?tab=repositories">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tawny-five-83.vercel.app/api/top-langs/?username=k0nnect&amp;exclude_repo=github-readme-stats,dotfiles&amp;custom_title=most%20used%20languages&amp;layout=compact&amp;card_width=350&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=f0f6fc&amp;text_color=9198a1">
-    <img src="https://github-readme-stats-tawny-five-83.vercel.app/api/top-langs/?username=k0nnect&amp;exclude_repo=github-readme-stats,dotfiles&amp;custom_title=most%20used%20languages&amp;layout=compact&amp;card_width=350&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=1f2328&amp;text_color=59636e" alt="most used languages">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tawny-five-83.vercel.app/api/top-langs/?username=k0nnect&amp;exclude_repo=github-readme-stats%2Cdotfiles&amp;custom_title=most%20used%20languages&amp;layout=compact&amp;card_width=350&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=f0f6fc&amp;text_color=9198a1">
+    <img src="https://github-readme-stats-tawny-five-83.vercel.app/api/top-langs/?username=k0nnect&amp;exclude_repo=github-readme-stats%2Cdotfiles&amp;custom_title=most%20used%20languages&amp;layout=compact&amp;card_width=350&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=1f2328&amp;text_color=59636e" alt="most used languages">
   </picture>
 </a>
