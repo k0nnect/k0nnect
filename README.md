@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="chris j. Four pull requests merged upstream in 2026: basic-memory #1764, DefectDojo #16374, pwndbg #4221 and PyMISP #1498.">
+  <img src="assets/hero-light.svg" width="100%" alt="chris j. Four pull requests merged upstream in 2026: basic-memory #1764, DefectDojo #16374, pwndbg #4221 and sentence-transformers #4445.">
 </picture>
 
 cs student in new york. i work with coding agents to find bugs in open source projects and get the fixes merged, and i build small tools around reverse engineering and security.
@@ -9,10 +9,10 @@ cs student in new york. i work with coding agents to find bugs in open source pr
 
 | project | stars | what changed | pr |
 | :-- | --: | :-- | :-- |
+| [sentence-transformers](https://github.com/huggingface/sentence-transformers) | 19k | evaluators with different settings no longer write into the same results file | [#4445](https://github.com/huggingface/sentence-transformers/pull/4445) |
 | [pwndbg](https://github.com/pwndbg/pwndbg) | 11k | the lldb backend now respects the run-args you configured | [#4221](https://github.com/pwndbg/pwndbg/pull/4221) |
 | [DefectDojo](https://github.com/DefectDojo/django-DefectDojo) | 5k | bulk merge counts the findings you actually selected | [#16374](https://github.com/DefectDojo/django-DefectDojo/pull/16374) |
 | [basic-memory](https://github.com/basicmachines-co/basic-memory) | 4k | api keys, tokens and private keys are masked in captured ai chats | [#1764](https://github.com/basicmachines-co/basic-memory/pull/1764) |
-| [PyMISP](https://github.com/MISP/PyMISP) | 496 | sharing group blueprints can be managed from the python api | [#1498](https://github.com/MISP/PyMISP/pull/1498) |
 
 ### things i made
 
